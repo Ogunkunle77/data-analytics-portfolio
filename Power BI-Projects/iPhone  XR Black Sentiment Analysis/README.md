@@ -1,7 +1,7 @@
 # iPhone XR Black Sentiment Analysis – Power BI
 
 ## 📌 Project Overview
-An interactive Power BI dashboard analyzing iPhone order data to uncover sales trends, regional performance customer behavioral with Feedback, and product demand.
+An interactive Power BI dashboard analyzing iPhone XR Black Sentiment to uncover sales trends, regional performance customer behavioral with Feedback, and product demand.
 
 ## 🛠 Tools Used
 - Power BI
